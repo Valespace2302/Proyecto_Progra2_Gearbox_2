@@ -19,14 +19,17 @@ Implementar un sistema básico de monitoreo de vibraciones que permita:
 
 ---
 
-## Estructura del repositorio
 Proyecto_Progra2_Gearbox/
+│
 ├── data/
-│ ├── Run_9.csv
-│ ├── Run_88.csv
-│ └── features.csv
-├── Gearbox_Fault_Detection_Dataset_-PHM_2009(NASA).ipynb
+│   ├── Run_9.csv
+│   ├── Run_88.csv
+│   └── Run_89.csv
+│
+├── Gearbox_Fault_Detection_Dataset_PHM_2009.ipynb
+│
 └── README.md
+
 
 
 ---
